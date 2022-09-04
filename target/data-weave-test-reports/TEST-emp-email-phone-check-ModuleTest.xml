@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<testsuites tests="1" time="282" name="Module" failures="0" errors="0">
+  <testsuite tests="1" time="282" name="Module" failures="0" skipped="0" errors="0">
+    <testsuite tests="1" time="282" name="Module" failures="0" skipped="0" errors="0">
+      <testcase name="It should do something" time="94" status="OK"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

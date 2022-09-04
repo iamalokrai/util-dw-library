@@ -1,0 +1,19 @@
+
+= Index
+
+[%header, cols="1,3"]
+|===
+| Name | Description
+| link:#mapping-index [Mapping] | 
+|===
+
+__________________________________________
+
+
+= **Mapping** link:#index[↑↑]
+===== _emp::role::to::manager::Mapping_
+
+
+
+__________________________________________
+

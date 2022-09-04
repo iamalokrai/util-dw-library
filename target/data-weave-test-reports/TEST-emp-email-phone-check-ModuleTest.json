@@ -1,0 +1,65 @@
+{
+  "name": "Module",
+  "time": 282,
+  "status": "OK",
+  "tests": [
+    {
+      "name": "validateMobileNumber",
+      "time": 235,
+      "status": "OK",
+      "tests": [
+        {
+          "name": "It should do something",
+          "time": 94,
+          "status": "OK",
+          "errorMessage": "Expecting Boolean type but was Boolean.",
+          "location": {
+            "start": {
+              "index": 225,
+              "line": 10,
+              "column": 9
+            },
+            "end": {
+              "index": 249,
+              "line": 10,
+              "column": 33
+            },
+            "locationString": "\n10|         \"It should do something\" in do {\r\n            ^^^^^^^^^^^^^^^^^^^^^^^^",
+            "text": "\"It should do something\" in do {",
+            "sourceIdentifier": "emp::email::phone::check::ModuleTest"
+          }
+        }
+      ],
+      "location": {
+        "start": {
+          "index": 179,
+          "line": 9,
+          "column": 5
+        },
+        "end": {
+          "index": 201,
+          "line": 9,
+          "column": 27
+        },
+        "locationString": "\n9|     \"validateMobileNumber\" describedBy [\r\n       ^^^^^^^^^^^^^^^^^^^^^^",
+        "text": "\"validateMobileNumber\" describedBy [",
+        "sourceIdentifier": "emp::email::phone::check::ModuleTest"
+      }
+    }
+  ],
+  "location": {
+    "start": {
+      "index": 151,
+      "line": 8,
+      "column": 1
+    },
+    "end": {
+      "index": 159,
+      "line": 8,
+      "column": 9
+    },
+    "locationString": "\n8| \"Module\" describedBy [\r\n   ^^^^^^^^",
+    "text": "\"Module\" describedBy [",
+    "sourceIdentifier": "emp::email::phone::check::ModuleTest"
+  }
+}
